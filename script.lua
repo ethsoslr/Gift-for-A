@@ -62,7 +62,7 @@ end)
 task.delay(6, function()
     StarterGui:SetCore("SendNotification", {
         Title = "رسالة من امير:",
-        Text = "اتمنى تعجبك ذي ",
+        Text = "اتمنى تعجبك ذي الهدية البسيطة مني ❤",
         Duration = 7
     })
 end)
